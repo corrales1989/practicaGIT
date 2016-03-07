@@ -8,3 +8,9 @@ _______________________________________
 1. El sistema debe permitir el registro de alumnos
 2. El sistema debe mostrar reportes de alumnos dados de baja 
 3. El sistema debe permitir la captura de calificaciones 
+
+Requisitos no funcionales
+_____________________________________
+1. El sistema debe de ser facuk de usar
+2. El sistema debe manejar datos de manera segura
+3. El sistema debe de esta disponible todo el tiempo
