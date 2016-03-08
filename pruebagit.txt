@@ -14,3 +14,7 @@ _____________________________________
 1. El sistema debe de ser facuk de usar
 2. El sistema debe manejar datos de manera segura
 3. El sistema debe de esta disponible todo el tiempo
+
+Conclusiones
+_____________________________________
+El sistema esta implementado.
