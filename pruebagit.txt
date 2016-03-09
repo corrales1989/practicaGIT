@@ -28,3 +28,7 @@ esta es una nueva rama del proyecto
 otro commit de la rama prueba
 ______________________________________
 Este commit solo se muestra en la rama prueba, posteriormente lo vamos a fusionar con la rama master
+
+Prueba Git Hub
+___________________________
+esta es una prueba git hub
